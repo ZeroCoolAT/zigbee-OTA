@@ -9556,5 +9556,16 @@
     "sha512": "9812a5d4152e44e44c7a1e7aac35c299838336ccd0a9c668b81632a1eaef98aba90eed0986d6d164f65bb60bde59940acc4c5337bf32b878f645ffb4cacb9517",
     "otaHeaderString": "temp_humi_sensor",
     "modelId": "3RPS01083Z"
+  },
+  {
+    "fileName": "minizb1gsp_v1.0.3.ota",
+    "fileVersion": 4100,
+    "fileSize": 335742,
+    "originalUrl": "https://zigbee-ota.sonoff.tech/releases/minizb1gsp_v1.0.3.ota",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/minizb1gsp_v1.0.3.ota",
+    "imageType": 70,
+    "manufacturerCode": 4742,
+    "sha512": "cfe91590d0aad095903c8a309655744a7ac4b0d44429b9b10486ce07555fffcfcfaf22a78238173c38077760b5e3951a682906f7133617c13eb29e1d6091a4a2",
+    "otaHeaderString": "EBL FWPLUG_MINIZB1GSP_ELECTRICAL"
   }
 ]
