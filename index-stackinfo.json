@@ -4782,12 +4782,6 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-012F-01000706-Switch-SiMG301.zigbee",
-    "stack": "Unknown",
-    "stackDetails": "",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/SlackyDiy/6565-021e-10053001-qs_zigbee_sec01_zrd.zigbee",
     "stack": "Telink",
     "stackDetails": "",
@@ -5091,6 +5085,12 @@
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM32-SN_1.03.ota",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-012F-01000B0A-Switch-SiMG301.zigbee",
+    "stack": "Unknown",
+    "stackDetails": "",
     "zigbeeStackVersion": "ZigbeePro"
   }
 ]
